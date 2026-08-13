@@ -12,7 +12,7 @@
 // To prints subarray we will take starting (start) and ending(end) point index of array. 
 // Index number act as a outer loop and which is also a starting points and the ending (end) act as a inner loop in for loop.  
 
-//Time complexity will O(n3)
+//Time complexity will O(n^3)
 
 
 #include <iostream> 
