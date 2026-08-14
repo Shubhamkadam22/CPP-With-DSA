@@ -1,7 +1,7 @@
-// In this problem queion we will print the Max subarray sum to solve this problem we have 3 standard algorithms 
- // 1. Brute Force - normal approch (not to use)
- // 2 Brute force with some optimazations (still not to use). 
- // Kadane's Algorithm 
+// In this problem question we will print the Max subarray sum to solve this problem we have 3 standard algorithms 
+ // 1. Brute Force - normal approch (not to use) TC = O(n3)
+ // 2 Brute force with some optimazations (still not to use). TC = O(n2) 
+ // Kadane's Algorithm O(n)
 
 //in this code we'll learn Brute force approch to find max subarray sum.
 //to find that first 
